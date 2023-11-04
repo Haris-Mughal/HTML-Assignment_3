@@ -1,12 +1,12 @@
 # HTML-Assignment_3
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home Page</title>
 </head>
 <body>
     <header>
@@ -28,7 +28,7 @@
 </center>
     </header>
 
-    <main>
+<main>
 
 <hr />
 
@@ -80,12 +80,11 @@
     <dd>The mango friut is roughly ovel in shape, with uneven sides. The friut is a drupe, with outer flesh surrounding a stone. the flesh is soft
          and bright yellow-orange in color. The skin of fruit is yellow-green to red.</dd>
 
-    <dt>Apple</dt>
+<dt>Apple</dt>
     <dd>The apple is a pome (fleshy) fruit, in which the ripened overy and surrounding tissue both become fleshy and edible....When harvested, apple
          are usually roundish, 5-10 cm(2-4inches) in diameter, and some shade of red, green, or yellow in color, they vary in size, shape, and acidity
           depending on the variety.</dd>
-
-    <dt>Grapes</dt>
+ <dt>Grapes</dt>
     <dd>Grapes are fleshy, rounded fruits that grow in clusters made up of greenish, yellowish or purple skin. the pulp is juicy sweet, and it contain
          several seed or pips. It is a well-know fruit, it is eaten raw, although it is mainly used for making wine.</dd>
 </dl>
