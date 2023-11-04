@@ -7,17 +7,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Page</title>
-    <style>
-        th {
-            width: 100px;
-        text-align: center;
-        }
-
-        .body-container {
-            width: fit-content;
-            margin: auto;
-        }
-   </style>
 </head>
 <body>
     <header>
@@ -25,14 +14,14 @@
     <nav>
         <table border="1">
             <tr>
-                <td><a href="https://saylaniwelfare.com/" target="_blank"><img src="./assets/logo/logo_saylani.png" width="100px"></a></td>
-                <th><a href="index.html">Home</a></th>
-                <th><a href="about.html">About</a></th>
-                <th><a href="gallery.html">Gallery</a></th>
-                <th><a href="media.html">Media</a></th>
-                <th><a href="contact.html">Contact</a></th>
-                <th><a href="login.html">Login</a></th>
-                <th><a href="register.html">Register</a></th>
+                <td style="width: 100; text-align: center;"><a href="https://saylaniwelfare.com/" target="_blank"><img src="./assets/logo/logo_saylani.png" width="100px"></a></td>
+                <th style="width: 100; text-align: center;"><a href="index.html">Home</a></th>
+                <th style="width: 100; text-align: center;"><a href="about.html">About</a></th>
+                <th style="width: 100; text-align: center;"><a href="gallery.html">Gallery</a></th>
+                <th style="width: 100; text-align: center;"><a href="media.html">Media</a></th>
+                <th style="width: 100; text-align: center;"><a href="contact.html">Contact</a></th>
+                <th style="width: 100; text-align: center;"><a href="login.html">Login</a></th>
+                <th style="width: 100; text-align: center;"><a href="register.html">Register</a></th>
             </tr>
         </table>
     </nav>
