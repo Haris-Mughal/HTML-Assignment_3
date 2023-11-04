@@ -12,7 +12,7 @@
     <header>
 <center>
     <nav>
-        <table border="1">
+<!--         <table border="1">
             <tr>
                 <td style="width: 100; text-align: center;"><a href="https://saylaniwelfare.com/" target="_blank"><img src="./assets/logo/logo_saylani.png" width="100px"></a></td>
                 <th style="width: 100; text-align: center;"><a href="index.html">Home</a></th>
@@ -23,7 +23,7 @@
                 <th style="width: 100; text-align: center;"><a href="login.html">Login</a></th>
                 <th style="width: 100; text-align: center;"><a href="register.html">Register</a></th>
             </tr>
-        </table>
+        </table> -->
     </nav>
 </center>
     </header>
